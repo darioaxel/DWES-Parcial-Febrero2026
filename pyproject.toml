@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dwes-parcial-febrero2026"
+version = "0.1.0"
+description = ""
+authors = ["Dario Ureña <darioaxel@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
